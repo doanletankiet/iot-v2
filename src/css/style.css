@@ -1,0 +1,44 @@
+.header__iot{
+    display: flex;
+    justify-content: center;
+    background-color: #EEEEEE;
+    margin-bottom: 20px;
+
+
+}
+
+#card__iot {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+
+}
+.content__iot-button{
+
+    border-radius: 5px;
+    width: 90px;
+    height: 40px;
+
+}
+
+.content__iot-button:hover {
+    cursor: pointer;
+}
+
+
+.main__iot{
+    height: 100%;
+}
+
+
+body {
+    background-image: url("./../assets/bg.jpg");
+}
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+{
+  "name": "iot_pannel_v2",
+  "version": "1.0.1",
+  "description": "iot esp32",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css",
+    "json"
+  ],
+  "author": "sojou ( Kiet Doan)",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
