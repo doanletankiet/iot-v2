@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server --watch db.json"
+    "start": "nodemon app.js"
   },
   "keywords": [
     "js",
@@ -16,6 +16,7 @@
   "author": "sojou ( Kiet Doan)",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.4"
+    "json-server": "^0.17.4",
+    "nodemon":"^2.0.21"
   }
 }
