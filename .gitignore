@@ -3,7 +3,7 @@
 /.pnp
 .pnp.js
 
-db.json
+
 package-lock.json
 # debug
 npm-debug.log*
